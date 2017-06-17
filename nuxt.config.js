@@ -21,7 +21,10 @@ module.exports = {
         link: [{
             rel: 'icon',
             type: 'image/x-icon',
-            href: 'https://nuxtjs.org/favicon.ico'
+            href: '/favicon.ico'
+        }, {
+            rel: 'manifest',
+            href: '/manifest.json'
         }]
     },
     /*

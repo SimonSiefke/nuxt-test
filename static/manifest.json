@@ -1,0 +1,13 @@
+{
+    "short_name": "nuxt-website",
+    "name": "nuxt-website",
+    "icons": [{
+        "src": "",
+        "sizes": "",
+        "type": ""
+    }],
+    "start_url": "",
+    "background_color": "",
+    "Theme_color": "",
+    "display": ""
+}

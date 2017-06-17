@@ -1,0 +1,24 @@
+{
+    "name": "nuxt-website",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nuxt": "^1.0.0-alpha.4"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.2.3",
+        "eslint": "^4.0.0",
+        "eslint-config-standard": "^10.2.1",
+        "eslint-loader": "^1.8.0",
+        "eslint-plugin-html": "^3.0.0",
+        "eslint-plugin-promise": "^3.5.0",
+        "eslint-plugin-standard": "^3.0.1"
+    }
+}
